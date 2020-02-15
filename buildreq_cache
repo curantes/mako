@@ -1,0 +1,10 @@
+1.4.1
+cairo-dev
+pkgconfig(cairo)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(libelogind)
+pkgconfig(libsystemd)
+pkgconfig(pango)
+pkgconfig(systemd)
+pkgconfig(wayland-client)
+pkgconfig(wayland-protocols)
